@@ -1,0 +1,68 @@
+.signup-box{
+   /* padding-top: 9rem;*/
+    width: 360px;
+    height: 580px;
+    margin: auto;
+    background-color: #97f2f3;
+    border-radius: 20px;
+    margin-top: 130px;
+
+    
+
+}
+.login-box{
+    width: 360px;
+    height: 300px;
+    margin: auto;
+    background-color:#97f2f3;
+    border-radius: 20px;
+    margin-top: 130px;
+
+}
+h1{
+    text-align: center;
+    padding-top: 9px;
+}
+h4{
+    text-align: center;
+
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+.đangnhap{
+    padding-top: 10px;
+}
+/*input .nut{
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #154abc;
+    color: white;
+    font-size: 18px;
+}*/
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+.para-2{
+    text-align: center;
+    font-size: 15px;
+    margin-top: -10px;
+}
